@@ -2,7 +2,7 @@
 
 @font-face {
 	font-family: "EchoRevival";
-	src: url("EchoRevival.woff2") format("woff2"), url("EchoRevival.woff") format("woff");
+	src: url("../fonts/EchoRevival.woff2") format("woff2"), url("../fonts/EchoRevival.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
 	font-family: "WhitehallCyr";
-	src: url("WhitehallCyr.woff2") format("woff2"), url("WhitehallCyr.woff") format("woff");
+	src: url("../fonts/WhitehallCyr.woff2") format("woff2"), url("../fonts/WhitehallCyr.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
